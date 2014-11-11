@@ -1,6 +1,6 @@
 # Author: Julia A. Barthold
 # Contact email: bartholdja@gmail.com
-# Date: 07 Jan 2014
+# Date: 7 Jan 2014
 # Description: Code to run two-sex IPM
 # Comment: The code is based on a two-sex IPM written by S. Schindler in MatLab. 
 #   The ipm functions are based on code provided by the authors of 
